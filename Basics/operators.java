@@ -1,4 +1,3 @@
-package Basics;
 
 public class operators {
     public void main (String[] args){

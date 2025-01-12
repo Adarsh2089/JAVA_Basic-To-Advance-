@@ -1,4 +1,3 @@
-package Basics;
 
 public class literals {
     public static void main(String a[]){

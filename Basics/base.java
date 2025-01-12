@@ -1,4 +1,4 @@
-package Basics; // Packages help to group related classes together, making it easier to manage large projects.
+// package Basics; // Packages help to group related classes together, making it easier to manage large projects.
 
 public class base {
 
