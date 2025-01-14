@@ -17,8 +17,10 @@ public class variables {
    
 
    ** Types of Variables--
-    <1>   Local Variables -
+    <1>   Local Variable -
                   A variable defined within a block or method or constructor
-    <2>   Instance Variables -
-                                
+    <2>   Instance Variable -
+                 Explained in Stack_Heap.java please checkout..
+    <3>   static  Variable -           
+                 Explained in Stack_Heap.java please checkout..               
  */ 
