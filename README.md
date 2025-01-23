@@ -32,5 +32,10 @@ A Journey of JAVA from Basics To Advance including Springboot framework for Back
 -- String Buffer and Builder
 -- String Tokenizer
 
+** DAY-05 ---->>
+ Encapsulation
+-- Getters and Setters
+-- Constructors
+-- Default and Parameterized Constructor
 
 
