@@ -7,19 +7,19 @@ A Journey of JAVA from Basics To Advance including Springboot framework for Back
 -- Operators
 -- Literals
 
-
+----
 ** DAY-02 ---->>
  Data Types
 -- Type Conversion
 -- Conditional Statements
 -- Loops
-
+----
 ** DAY-03 ---->>
  Objects And Classes
 -- Creation of object 
 -- Methods
 -- Methods overloading
-
+----
 ** DAY-04 ---->>
  Stacks and Heaps
 -- DAY04.Arrays (1D , 2D , 3D) 
@@ -31,13 +31,13 @@ A Journey of JAVA from Basics To Advance including Springboot framework for Back
 -- Mutable and Immutable DAY05.Strings
 -- String Buffer and Builder
 -- String Tokenizer
-
+----
 ** DAY-06 ---->>
  DAY06.Encapsulation
 -- Getters and Setters
 -- Constructors
 -- Default and DAY06.Parameterized DAY06.Constructor
-
+----
 ** DAY-07 ----->>
 JAVA Collections
 -- List
