@@ -1,47 +1,57 @@
-# JAVA_Basic-To-Advance-
-A Journey of JAVA from Basics To Advance including Springboot framework for Backend Development .
+# JAVA Basic to Advance 🚀  
+A Journey of **Java** from Basics to Advance, including the **Spring Boot** framework for Backend Development.  
 
-** DAY-01 ---->>
- basics structures
--- Variables 
--- Operators
--- Literals
+---
 
-----
-** DAY-02 ---->>
- Data Types
--- Type Conversion
--- Conditional Statements
--- Loops
-----
-** DAY-03 ---->>
- Objects And Classes
--- Creation of object 
--- Methods
--- Methods overloading
-----
-** DAY-04 ---->>
- Stacks and Heaps
--- DAY04.Arrays (1D , 2D , 3D) 
--- DAY04.Arrays of Obejcts
--- Enhanced FOR LOOP
+## 📅 Day 01: Basics Structures  
+- Variables  
+- Operators  
+- Literals  
 
-** DAY-05 ---->>
- DAY05.Strings
--- Mutable and Immutable DAY05.Strings
--- String Buffer and Builder
--- String Tokenizer
-----
-** DAY-06 ---->>
- DAY06.Encapsulation
--- Getters and Setters
--- Constructors
--- Default and DAY06.Parameterized DAY06.Constructor
-----
-** DAY-07 ----->>
-JAVA Collections
--- List
--- Queue
--- Set
--- Map
+---
 
+## 📅 Day 02: Data Types  
+- Type Conversion  
+- Conditional Statements  
+- Loops  
+
+---
+
+## 📅 Day 03: Objects and Classes  
+- Creation of Objects  
+- Methods  
+- Method Overloading  
+
+---
+
+## 📅 Day 04: Memory & Arrays  
+- Stacks and Heaps  
+- Arrays (1D, 2D, 3D)  
+- Arrays of Objects  
+- Enhanced `for` Loop  
+
+---
+
+## 📅 Day 05: Strings  
+- Mutable and Immutable Strings  
+- StringBuffer and StringBuilder  
+- StringTokenizer  
+
+---
+
+## 📅 Day 06: Encapsulation  
+- Getters and Setters  
+- Constructors  
+- Default and Parameterized Constructors  
+
+---
+
+## 📅 Day 07: Java Collections Framework (JCF)  
+- List  
+- Queue  
+- Set  
+- Map  
+
+---
+
+✨ *More advanced topics (OOP, Multithreading, Exception Handling, Streams, Spring Boot, etc.) coming soon...*  
