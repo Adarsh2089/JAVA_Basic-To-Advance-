@@ -7,6 +7,7 @@ import java.util.ListIterator;
 public class arrayList {
 
     public static void main(String[] args) {
+
         List<Integer> list = new ArrayList<>();
         List<Integer> list1 = new ArrayList<>();
 

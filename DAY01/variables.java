@@ -4,6 +4,8 @@ public class variables {
     public static void main (String a[]){
         int num=10; // Local Variable
         System.out.println(num);
+
+
     }
 
     

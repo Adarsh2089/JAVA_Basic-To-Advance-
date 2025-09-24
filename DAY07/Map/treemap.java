@@ -6,8 +6,12 @@ import java.util.TreeMap;
 public class treemap {
 
     public static void main(String[] args) {
+
+
         TreeMap<Integer,String> tmap = new TreeMap<>();
+
         NavigableMap<String,Integer> nmap = new TreeMap<>();
+
     }
 }
 /*          • Stores Key-Value pairs in sorted order of keys.

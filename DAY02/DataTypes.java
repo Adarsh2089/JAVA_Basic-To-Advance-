@@ -1,16 +1,19 @@
 package DAY02;
 
+import java.util.Scanner;
+
 public class DataTypes{
     public static void main (String a[]){
 
+
         Byte num1=127; // Range = -128 to 127 (2 byte)
-        short num2= 128;  // (4 byte)
-        int num3 = 1000;  // (8 byte)
+        short num2= 32766;  // (4 byte)
+        int num3 = 32768;  // (8 byte)
         long num4=1200000; // (16 byte)
 
          
-        double db = 23.4f;  // By default it takes double that's why we have to write f with floating point.
-        float fl = 23.45f;  // By default it takes double that's why we have to write f with floating point.
+        double db = 23.457354727676479f;  // By default it takes double that's why we have to write f with floating point.
+        float fl = 23.45364576574f;  // By default it takes double that's why we have to write f with floating point.
         
         
         char ch = 'a'; // must be in single quotes.
@@ -22,7 +25,17 @@ public class DataTypes{
         Boolean bool = true; // values in true or false only 
 
 
-        System.out.println(bool);
+      //  System.out.println(bool);
+
+   //     System.out.println(db);
+
+        Scanner sc = new Scanner(System.in);
+
+       System.out.print("Enter any Number - ");
+
+       int i = sc.nextInt();
+
+        System.out.println(i);
    
     }
 }
@@ -32,7 +45,7 @@ public class DataTypes{
                                              |
                         --------------------------------------------  
                         |                                          |
-               Primitive Datatypes                      Non-Primitive DAY02.DataTypes
+               Primitive Datatypes                      Non-Primitive DataTypes
                         |                                                |
             --------------------------------------                ---------------------------------------
             |            |             |         |                |            |            |           |

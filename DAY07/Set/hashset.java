@@ -6,8 +6,11 @@ import java.util.Set;
 public class hashset {
 
     public static void main(String[] args) {
+
         HashSet<Integer> set = new HashSet<>();
+
         Set<String> set2 = new HashSet<>();
+
     }
 }
 

@@ -6,7 +6,6 @@ class multiplier {
         int r=n1*n2;
         return r;
     }
-    
 }
 
 // ** Object Oriented Programming 

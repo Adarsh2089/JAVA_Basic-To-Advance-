@@ -6,9 +6,10 @@ public class PriorityQueue {
 
     public static void main(String[] args) {
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>();   // Min-Heap
+ /*       PriorityQueue<Integer> pq = new PriorityQueue<>();   // Min-Heap
+        PriorityQueue<Integer> pq = new PriorityQueue();
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder()); // Max-Heap
-
+*/
     }
 }
 

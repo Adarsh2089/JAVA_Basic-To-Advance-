@@ -2,9 +2,18 @@ package DAY01;
 
 public class operators {
     public void main (String[] args){
-        
-    }
 
+
+        byte  a =10;
+        byte b=20;
+
+
+        //int c = ;
+
+
+        System.out.println(a+b);
+
+    }
 
 }
 
@@ -31,6 +40,7 @@ Unary Operators---
 (!)  - Inverts a boolean value. 
 
 
+
 Assignment Operator---
 
 +=  - Add and assign.
@@ -38,6 +48,7 @@ Assignment Operator---
 *=  - Multiply and assign.
 /=  - Divide and assign.
 %=  - Modulo and assign.
+
 
 Relational Operators---
 
@@ -54,9 +65,11 @@ Logical Operators---
 ||, Logical OR:  returns true if at least one condition is true.
 !, Logical NOT:  returns true when a condition is false and vice-versa
 
+
 Ternary Operator---
 
-condition ? if true : if false 
+condition ? if true : if false
+
 
 Bitwise Operators---
 

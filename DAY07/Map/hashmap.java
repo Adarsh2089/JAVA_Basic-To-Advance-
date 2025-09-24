@@ -7,7 +7,7 @@ public class hashmap {
 
     public static void main(String[] args) {
         HashMap<Integer,String> map = new HashMap<>();
-        Map<String,Integer> freq = new HashMap<>()
+        Map<String,Integer> freq = new HashMap<>();
     }
 }
 

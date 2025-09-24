@@ -25,7 +25,34 @@ public class TypeConv {
     int result = a1 * b1 ;  // Here comes the terms of Type Promotion ....
 
 
-     System.out.println(result);
-    
+   //  System.out.println(result);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     int x= 5;
+
+     long y = (long) x;
+
+
+        System.out.println(y);
+
+
+
+
+
+
+
+
     }
 }

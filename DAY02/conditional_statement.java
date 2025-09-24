@@ -1,23 +1,36 @@
 package DAY02;
 
 public class conditional_statement {
+
+
     public static void main(String[] args){
 
-      int a = 12;
-      int b=12;
+      int a = 20;
+      int b=10;
+      int c=4;
 
-    // if statement 
+ /*   // if statement
       if (a>b) {
-        System.out.println(a);
+      //  System.out.println("true");
       }
 
-    // Nested if 
-    if (a>b) {
-        System.out.println(a);
-        if (b>a) {
-            System.out.println(b);
-        }
+      if (a>b && a>c) {
+        System.out.println("true");
+      }else {
+          System.out.println("false");
       }
+*/
+    // Nested if
+    if (a>b) {
+         // System.out.println(a);
+          if (a>c) {
+            System.out.println("true");
+          }else{
+              System.out.println("Smaller than c");
+          }
+      }else {
+        System.out.println("Smaller than b");
+    }
     
 
    // if else if ladder ---   
@@ -29,7 +42,7 @@ public class conditional_statement {
         System.out.println("Both "+ a + " and " + b + " are equal");
       }
 
-
+/*
    // switch case ---  
    int num=20;
    switch(num){
@@ -45,5 +58,5 @@ public class conditional_statement {
        
    }
 
-    } 
+   */ }
 }
